@@ -1,9 +1,9 @@
 # Customer-sentiment-Analysis
 
-##Project Overview
+Project Overview
 This project focuses on analyzing customer sentiment based on textual data, such as product reviews, feedback, or social media posts. The goal is to classify customer feedback into different sentiment categories (positive, negative, neutral) using machine learning techniques and visualize the results through various graphs and charts.
 
-##Technologies Used
+Technologies Used
 Python
 Pandas
 Scikit-learn
@@ -13,7 +13,7 @@ WordCloud
 Jupyter Notebook (or any other Python IDE)
 NLTK (for text preprocessing)
 
-##Project Structure
+Project Structure
 Customer_Sentiment_Analysis/
 │
 ├── data/
@@ -29,7 +29,7 @@ Customer_Sentiment_Analysis/
 └── requirements.txt                # List of Python dependencies
 
 
-##Dataset
+Dataset
 The dataset consists of customer feedback, which includes the following columns:
 
 Review: The textual feedback given by customers.
