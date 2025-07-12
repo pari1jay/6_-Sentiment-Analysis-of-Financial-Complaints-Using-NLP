@@ -4,14 +4,9 @@
 This project focuses on analyzing customer sentiment based on textual data, such as product reviews, feedback, or social media posts. The goal is to classify customer feedback into different sentiment categories (positive, negative, neutral) using machine learning techniques and visualize the results through various graphs and charts.
 
 ## Technologies Used
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- WordCloud
+- Python: Pandas | Scikit-learn | Matplotlib | Seaborn | WordCloud |  NLTK (for text preprocessing)
 - Jupyter Notebook (or any other Python IDE)
-- NLTK (for text preprocessing)
+
 
 ## Dataset
 The dataset consists of customer feedback, which includes the following columns:
@@ -20,6 +15,9 @@ The dataset consists of customer feedback, which includes the following columns:
 
 ## Objective
 The objective is to analyze consumer complaints data to predict whether a complaint would be disputed based on the issue reported.
+  
+## Flow
+preprocessing → vectorization → ML models → evaluation
 
 ## Data Preprocessing
 - Loaded and cleaned a large consumer complaints dataset from the Consumer Financial Protection Bureau (CFPB).
