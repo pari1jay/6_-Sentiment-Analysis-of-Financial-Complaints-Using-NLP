@@ -59,17 +59,4 @@ This project analyzes consumer complaint data from the Consumer Financial Protec
 
 ---
 
-## 🧠 Sentiment Analysis Logic
-
-Sentiment is inferred from the company’s response to the complaint:
-
-```python
-def map_sentiment(response):
-    if 'monetary relief' in response.lower():
-        return 'Positive'
-    elif 'no relief' in response.lower():
-        return 'Negative'
-    elif 'explanation' in response.lower():
-        return 'Neutral'
-    else:
-        return 'Neutral'
+## 🧠 Sentiment Analysis 
