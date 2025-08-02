@@ -4,7 +4,7 @@ This project analyzes consumer complaint data from the Consumer Financial Protec
 
 ---
 
-## 📌 Project Objectives
+##  Project Objectives
 
 - Analyze and preprocess real-world consumer complaint data.
 - Perform sentiment analysis on complaint narratives based on company responses.
@@ -14,7 +14,7 @@ This project analyzes consumer complaint data from the Consumer Financial Protec
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 
 **Source:** [CFPB Consumer Complaints](https://www.kaggle.com/datasets/sbhatti/consumer-finance-complaints)
 
@@ -30,7 +30,7 @@ This project analyzes consumer complaint data from the Consumer Financial Protec
 
 ---
 
-## 🛠️ Methods & Tools
+##  Methods & Tools
 
 | Task                        | Libraries/Techniques                            |
 |----------------------------|--------------------------------------------------|
@@ -44,7 +44,7 @@ This project analyzes consumer complaint data from the Consumer Financial Protec
 
 ---
 
-## 🧹 Preprocessing Steps
+##  Preprocessing Steps
 
 1. Drop rows with missing narratives for NLP.
 2. Normalize text:
@@ -59,4 +59,4 @@ This project analyzes consumer complaint data from the Consumer Financial Protec
 
 ---
 
-## 🧠 Sentiment Analysis 
+##  Sentiment Analysis 
